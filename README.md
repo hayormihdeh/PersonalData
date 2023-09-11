@@ -1,1 +1,1 @@
-# PersonalData
+The Real-Time Data Showcase Web Page is a simple web application developed using HTML, CSS, and JavaScript. It is designed to showcase my specific personal data and real-time data attributes on a web page. Each required element on the page has a specified `data-testid` attribute for easy identification and testing purposes.
